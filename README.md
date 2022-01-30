@@ -1,7 +1,7 @@
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
-`TODO://` Add app description
+An andriod App which changes the color of a string text.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
